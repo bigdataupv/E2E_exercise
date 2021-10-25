@@ -28,7 +28,7 @@ services:
 
   # Confluent Kafka: Message Broker
   broker:
-    image: confluentinc/cp-kafka:latest
+      image: confluentinc/cp-kafka:latest
     hostname: broker
     container_name: broker
     depends_on:
@@ -76,7 +76,6 @@ services:
     container_name: control-center
     depends_on:
       - zookeeper
-      - broker
     ports:
       - "9021:9021"
     environment:
