@@ -76,7 +76,7 @@ Clone the project (if you have GIT installed):
  git clone https://github.com/echiner/GFTMasterBigDataUPV
  ```
 
-Or, download the course exercise directly from the repository: https://github.com/echiner/GFTMasterBigDataUPV (click on "Clone or download")
+Or, download the course exercise directly from the repository: https://github.com/paponsro/E2E_exercise (click on "Clone or download")
 
 # Admin & Troubleshooting
 
