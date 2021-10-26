@@ -73,7 +73,7 @@ You will also need **Java** and an **IDE** installed:
 Clone the project (if you have GIT installed):
  
  ```
- git clone https://github.com/echiner/GFTMasterBigDataUPV
+ git clone https://github.com/paponsro/E2E_exercise.git
  ```
 
 Or, download the course exercise directly from the repository: https://github.com/paponsro/E2E_exercise (click on "Clone or download")
